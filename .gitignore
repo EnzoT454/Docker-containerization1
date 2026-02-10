@@ -1,0 +1,19 @@
+# ===== Java / Maven ===== 
+target/ 
+*.class 
+*.war 
+*.jar 
+# ===== Logs ===== 
+*.log 
+# ===== OS ===== 
+.DS_Store 
+# ===== IDE ===== 
+.idea/ 
+.vscode/ 
+*.iml 
+# ===== Env / Secrets ===== 
+.env 
+.env.* 
+*.pem 
+*.key 
+*.env
